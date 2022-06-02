@@ -1,0 +1,3 @@
+[submodule "src/submod"]
+	path = src/submod
+	url = git@github.com:ljmerza/react-submod.git
